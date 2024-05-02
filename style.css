@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+}
+.middle ul{
+    display: flex;
+    list-style: none;
+}
+.middle ul li{
+    margin: 10px;
+}
